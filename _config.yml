@@ -3,8 +3,8 @@ description: This lab showcases Modern Analytics with Microsoft Fabric and Azure
 theme: just-the-docs
 
 aux_links:
-  "TechBoost Fabric wth Databricks for Data Analytics": 
-    - "https://github.com/microsoft/TechBoost-Fabric-with-Databricks-for-Data-Analytics"
+  "TechExcel Innovate with Azure AI Platform Infra Ready": 
+    - "https://github.com/microsoft/TechExcel-Innovate-with-Azure-AI-Infra-Ready"
 
 callouts_level: quiet # or loud
 callouts:
