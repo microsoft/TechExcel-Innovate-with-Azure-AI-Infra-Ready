@@ -1,5 +1,6 @@
 title: Innovate with Azure AI Platform Infra Ready
-description: This lab showcases Modern Analytics with Microsoft Fabric and Azure Databricks, featuring a cost-effective, performance-optimized, and cloud-native Analytics solution pattern. 
+description: In this course, participants will learn to leverage Azure AI technologies to enhance customer interaction on a digital platform. The course will guide learners through the process of integrating Azure AI functionalities to moderate user-generated content and deploy a personalized chatbot, ensuring a secure and customized user experience.
+The labs will cover the essentials of migrating to an AI-ready infrastructure, configuring networking, and setting up Azure AI Studio and Azure AI Prompt Flow.
 theme: just-the-docs
 
 aux_links:
