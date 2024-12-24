@@ -15,7 +15,7 @@ Estimated time to complete: *120 minutes*
 
 To complete the exercises in this lab, you'll be provided a Microsoft 365 Business Premium tenant.  
 
-The type text icon !IMAGE[SendText.jpg](instructions278748/SendText.jpg "Send text") feature used in this lab will send the specified text string to the active window in the virtual machine. Always compare the text in the lab document with the typed text in the virtual machine and verify that the expected text displays. 
+The type text icon ![SendText.jpg](../media/SendText.jpg "Send text") feature used in this lab will send the specified text string to the active window in the virtual machine. Always compare the text in the lab document with the typed text in the virtual machine and verify that the expected text displays. 
 
 #### **What you'll learn** 
 
